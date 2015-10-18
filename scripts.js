@@ -1,0 +1,21 @@
+$(document).ready(function(){
+		$("#Home").show();
+		$("#About").hide();
+		$("#List").hide();
+	$("#ButtonHome").click(function(){
+		$("#Home").show();
+		$("#About").hide();
+		$("#List").hide();
+	});
+	$("#ButtonAbout").click(function(){
+		$("#Home").hide();
+		$("#About").show();
+		$("#List").hide();
+	});
+	$("#ButtonList").click(function(){
+		$("#Home").hide();
+		$("#About").hide();
+		$("#List").show();
+	});
+});
+
