@@ -1,0 +1,52 @@
+body{
+	background-image: url("dark_wall.png");
+}
+
+#title {
+    background-image: url("dark_wall.png");
+	padding: 10px;
+	font-family: 'Share Tech Mono', ;
+	color: white;
+	font-size: 200%;
+}
+
+#title button{
+    background-image: url("dark_wall.png");
+	padding: 10px;
+	text-align: right;
+	color: white;
+}
+
+
+#Home {
+    background-image: url("dark_wall.png");
+	padding: 5px;
+	color:white;
+}
+
+#Home a{
+	background-image: url("dark_wall.png");
+	color:white;
+}
+
+#About {
+    background-image: url("dark_wall.png");
+	padding: 5px;
+	color:white;
+}
+
+#About a{
+    background-image: url("dark_wall.png");
+	color:white;
+}
+
+#List {
+    background-image: url("dark_wall.png");
+	padding: 5px;
+	color:white;
+}
+
+#List a{
+    background-image: url("dark_wall.png");
+	color:white;
+}
